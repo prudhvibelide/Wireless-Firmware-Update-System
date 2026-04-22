@@ -1,0 +1,5 @@
+../Src/fota_processor.c:22:6:jump_to_app	2
+../Src/fota_processor.c:64:5:string_length	2
+../Src/fota_processor.c:83:7:find_substring	5
+../Src/fota_processor.c:113:6:firmware_parse	4
+../Src/fota_processor.c:150:6:firmware_update	1

@@ -1,0 +1,9 @@
+C:/Users/Prudhvi Belide/OneDrive/Documents/F24_Belide_Jayaraman_Wadhwa/Code/Bootloader-ESP-Main Code/esp82xx_fota_esd/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/esp82xx_driver.c:32:5:__io_putchar	16	static
+../Src/esp82xx_driver.c:38:6:debug_uart_init	8	static
+../Src/esp82xx_driver.c:106:6:esp_rs_pin_init	4	static
+../Src/esp82xx_driver.c:119:6:esp_rs_pin_enable	4	static
+../Src/esp82xx_driver.c:124:6:esp_uart_init	8	static
+../Src/esp82xx_driver.c:174:13:uart_write	16	static
+../Src/esp82xx_driver.c:182:17:compute_uart_bd	16	static
+../Src/esp82xx_driver.c:187:13:uart_set_baudrate	16	static

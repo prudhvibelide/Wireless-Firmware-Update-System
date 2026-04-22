@@ -1,0 +1,7 @@
+../Src/bma.c:12:6:I2C1_Init	16	static
+../Src/bma.c:56:16:BMA400_WriteReg	24	static
+../Src/bma.c:96:16:BMA400_ReadReg	24	static
+../Src/bma.c:154:9:BMA400_Init	16	static
+../Src/bma.c:180:9:BMA400_ReadXAxis	16	static
+../Src/bma.c:199:9:BMA400_ReadYAxis	16	static
+../Src/bma.c:219:9:BMA400_ReadZAxis	16	static

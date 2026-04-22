@@ -1,0 +1,5 @@
+../Src/fota_processor.c:22:6:jump_to_app	32	static,ignoring_inline_asm
+../Src/fota_processor.c:64:5:string_length	24	static
+../Src/fota_processor.c:83:7:find_substring	40	static
+../Src/fota_processor.c:113:6:firmware_parse	56	static
+../Src/fota_processor.c:150:6:firmware_update	8	static

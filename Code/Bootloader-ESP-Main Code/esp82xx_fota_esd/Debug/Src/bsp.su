@@ -1,0 +1,5 @@
+../Src/bsp.c:20:6:led_init	4	static
+../Src/bsp.c:31:6:led_on	4	static
+../Src/bsp.c:37:6:led_off	4	static
+../Src/bsp.c:44:6:button_init	4	static
+../Src/bsp.c:56:6:get_btn_state	4	static
